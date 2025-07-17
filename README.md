@@ -2,12 +2,6 @@
 
 Eatify is a modern, responsive food ordering interface built with React and Tailwind CSS. It features a dynamic, filterable food menu, attractive promotional sections, and an interactive authentication flow—including login, signup, and guest (skip) options—making it an ideal starting point for food delivery or ordering applications.
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [License](#license)
 
 ## Features
 
